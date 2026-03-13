@@ -1,0 +1,65 @@
+============================================================
+RACE: R21072 - Suzuka
+============================================================
+Base lap time: 84.5
+Total laps: 50
+Pit penalty: 22.7
+Track temp: 27°C
+
+=== TOP 5 FINISHERS ===
+
+1. D001
+   Starting tire: MEDIUM
+   Pit stops: 1
+     Lap 23: MEDIUM → HARD
+
+2. D014
+   Starting tire: HARD
+   Pit stops: 1
+     Lap 32: HARD → MEDIUM
+
+3. D018
+   Starting tire: HARD
+   Pit stops: 1
+     Lap 35: HARD → MEDIUM
+
+4. D002
+   Starting tire: MEDIUM
+   Pit stops: 2
+     Lap 12: MEDIUM → HARD
+     Lap 29: HARD → MEDIUM
+
+5. D009
+   Starting tire: HARD
+   Pit stops: 2
+     Lap 14: HARD → SOFT
+     Lap 28: SOFT → MEDIUM
+
+=== BOTTOM 5 FINISHERS ===
+
+16. D005
+   Starting tire: MEDIUM
+   Pit stops: 2
+     Lap 14: MEDIUM → SOFT
+     Lap 36: SOFT → MEDIUM
+
+17. D015
+   Starting tire: HARD
+   Pit stops: 2
+     Lap 12: HARD → SOFT
+     Lap 34: SOFT → HARD
+
+18. D013
+   Starting tire: MEDIUM
+   Pit stops: 1
+     Lap 26: MEDIUM → SOFT
+
+19. D008
+   Starting tire: SOFT
+   Pit stops: 1
+     Lap 8: SOFT → MEDIUM
+
+20. D011
+   Starting tire: MEDIUM
+   Pit stops: 1
+     Lap 20: MEDIUM → SOFT

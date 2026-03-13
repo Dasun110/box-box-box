@@ -1,0 +1,13 @@
+============================================================
+PIT STOPS vs FINISHING POSITION
+============================================================
+
+1 pit stops:
+  Drivers: 3651
+  Avg position: 10.5
+  Range: 1-20
+
+2 pit stops:
+  Drivers: 349
+  Avg position: 10.1
+  Range: 1-20

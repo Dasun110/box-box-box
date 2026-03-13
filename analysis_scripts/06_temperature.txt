@@ -1,9 +1,9 @@
 === TEMPERATURE GROUPS ===
-Temperature ~20°C: 53 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
-Temperature ~25°C: 117 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
-Temperature ~30°C: 566 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
-Temperature ~35°C: 204 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
-Temperature ~40°C: 60 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+Temperature ~20°C: 53 races, tracks: {'Silverstone', 'Suzuka', 'Monza', 'Spa', 'COTA', 'Bahrain', 'Monaco'}
+Temperature ~25°C: 117 races, tracks: {'Silverstone', 'Monza', 'Suzuka', 'Spa', 'COTA', 'Bahrain', 'Monaco'}
+Temperature ~30°C: 566 races, tracks: {'Silverstone', 'Monza', 'Suzuka', 'Spa', 'COTA', 'Bahrain', 'Monaco'}
+Temperature ~35°C: 204 races, tracks: {'Silverstone', 'Suzuka', 'Monza', 'Spa', 'COTA', 'Bahrain', 'Monaco'}
+Temperature ~40°C: 60 races, tracks: {'Silverstone', 'Suzuka', 'Monza', 'Spa', 'COTA', 'Bahrain', 'Monaco'}
 
 === SAME TRACK, DIFFERENT TEMPS ===
 

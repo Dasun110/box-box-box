@@ -1,0 +1,24 @@
+============================================================
+TIRE PERFORMANCE: FINISHING POSITIONS
+============================================================
+
+SOFT:
+  Occurrences: 6568
+  Average position: 10.2
+  Median position: 10.0
+  Best: 1, Worst: 20
+  Std Dev: 5.29
+
+MEDIUM:
+  Occurrences: 6716
+  Average position: 10.7
+  Median position: 10.0
+  Best: 1, Worst: 20
+  Std Dev: 6.50
+
+HARD:
+  Occurrences: 6716
+  Average position: 10.6
+  Median position: 11.0
+  Best: 1, Worst: 20
+  Std Dev: 5.41

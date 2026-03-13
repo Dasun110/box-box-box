@@ -1,0 +1,28 @@
+============================================================
+GRID SEARCH FOR BEST OFFSETS
+============================================================
+✅ New best: SOFT=-2.0, MEDIUM=0.0, HARD=0.5 → 8.1%
+   SOFT=-2.0, MEDIUM=0.0, HARD=1.0 → 7.2%
+   SOFT=-2.0, MEDIUM=0.0, HARD=1.5 → 6.6%
+   SOFT=-2.0, MEDIUM=0.0, HARD=2.0 → 5.9%
+   SOFT=-1.5, MEDIUM=0.0, HARD=0.5 → 7.2%
+   SOFT=-1.5, MEDIUM=0.0, HARD=1.0 → 6.7%
+   SOFT=-1.5, MEDIUM=0.0, HARD=1.5 → 5.3%
+   SOFT=-1.5, MEDIUM=0.0, HARD=2.0 → 5.1%
+   SOFT=-1.0, MEDIUM=0.0, HARD=0.5 → 7.0%
+   SOFT=-1.0, MEDIUM=0.0, HARD=1.0 → 5.2%
+   SOFT=-1.0, MEDIUM=0.0, HARD=1.5 → 4.5%
+   SOFT=-1.0, MEDIUM=0.0, HARD=2.0 → 3.5%
+   SOFT=-0.5, MEDIUM=0.0, HARD=0.5 → 4.3%
+   SOFT=-0.5, MEDIUM=0.0, HARD=1.0 → 3.8%
+   SOFT=-0.5, MEDIUM=0.0, HARD=1.5 → 4.0%
+   SOFT=-0.5, MEDIUM=0.0, HARD=2.0 → 3.8%
+   SOFT=0.0, MEDIUM=0.0, HARD=0.5 → 4.2%
+   SOFT=0.0, MEDIUM=0.0, HARD=1.0 → 4.0%
+   SOFT=0.0, MEDIUM=0.0, HARD=1.5 → 3.9%
+   SOFT=0.0, MEDIUM=0.0, HARD=2.0 → 3.8%
+
+============================================================
+BEST CONFIG: SOFT=-2.0, MEDIUM=0.0, HARD=0.5
+ACCURACY: 8.1%
+============================================================
