@@ -1,0 +1,59 @@
+================================================================================
+PATTERN ANALYSIS: Where We Get Things Wrong
+================================================================================
+
+Accuracy by Track:
+  Bahrain        :  17.7%
+  COTA           :  17.6%
+  Monaco         :  18.3%
+  Monza          :  17.2%
+  Silverstone    :  18.5%
+  Spa            :  20.2%
+  Suzuka         :  17.4%
+
+Error Count by Temperature:
+  18°C:  131 errors
+  19°C:  136 errors
+  20°C:  208 errors
+  21°C:  173 errors
+  22°C:  242 errors
+  23°C:  180 errors
+  24°C:  323 errors
+  26°C:  146 errors
+  27°C: 1187 errors
+  28°C: 1837 errors
+  29°C: 1775 errors
+  30°C: 1943 errors
+  31°C: 2220 errors
+  32°C: 1663 errors
+  33°C: 1607 errors
+  34°C: 1128 errors
+  36°C:  210 errors
+  37°C:  253 errors
+  38°C:  241 errors
+  39°C:  166 errors
+  40°C:  168 errors
+  41°C:  141 errors
+  42°C:  289 errors
+
+Error Count by Grid Position (where we got prediction wrong):
+  Position  1 (grid pos  1):  857 errors
+  Position  2 (grid pos  2):  880 errors
+  Position  3 (grid pos  3):  924 errors
+  Position  4 (grid pos  4):  939 errors
+  Position  5 (grid pos  5):  925 errors
+  Position  6 (grid pos  6):  931 errors
+  Position  7 (grid pos  7):  912 errors
+  Position  8 (grid pos  8):  905 errors
+  Position  9 (grid pos  9):  888 errors
+  Position 10 (grid pos 10):  897 errors
+  Position 11 (grid pos 11):  891 errors
+  Position 12 (grid pos 12):  882 errors
+  Position 13 (grid pos 13):  859 errors
+  Position 14 (grid pos 14):  850 errors
+  Position 15 (grid pos 15):  829 errors
+  Position 16 (grid pos 16):  795 errors
+  Position 17 (grid pos 17):  718 errors
+  Position 18 (grid pos 18):  630 errors
+  Position 19 (grid pos 19):  491 errors
+  Position 20 (grid pos 20):  364 errors

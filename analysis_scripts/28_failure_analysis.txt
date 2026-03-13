@@ -1,0 +1,89 @@
+================================================================================
+DETAILED FAILURE ANALYSIS
+================================================================================
+
+10 WORST PREDICTIONS:
+
+1. R11409 - Monza (33°C)
+   Correct: 0/20
+   Predicted top 5: ['D002', 'D005', 'D018', 'D009', 'D001']
+   Actual top 5:    ['D006', 'D007', 'D013', 'D019', 'D012']
+
+2. R03388 - Monza (31°C)
+   Correct: 0/20
+   Predicted top 5: ['D007', 'D003', 'D015', 'D009', 'D017']
+   Actual top 5:    ['D019', 'D014', 'D002', 'D012', 'D001']
+
+3. R19591 - Monaco (31°C)
+   Correct: 0/20
+   Predicted top 5: ['D019', 'D006', 'D013', 'D005', 'D009']
+   Actual top 5:    ['D011', 'D014', 'D007', 'D012', 'D004']
+
+4. R04985 - Silverstone (32°C)
+   Correct: 0/20
+   Predicted top 5: ['D002', 'D006', 'D008', 'D012', 'D013']
+   Actual top 5:    ['D017', 'D020', 'D003', 'D005', 'D010']
+
+5. R07353 - Monaco (28°C)
+   Correct: 0/20
+   Predicted top 5: ['D004', 'D010', 'D012', 'D019', 'D020']
+   Actual top 5:    ['D014', 'D016', 'D001', 'D013', 'D007']
+
+6. R02657 - Spa (32°C)
+   Correct: 0/20
+   Predicted top 5: ['D018', 'D019', 'D002', 'D003', 'D011']
+   Actual top 5:    ['D012', 'D005', 'D008', 'D009', 'D010']
+
+7. R01355 - Bahrain (31°C)
+   Correct: 0/20
+   Predicted top 5: ['D004', 'D009', 'D017', 'D012', 'D014']
+   Actual top 5:    ['D003', 'D005', 'D010', 'D013', 'D015']
+
+8. R05018 - Monza (33°C)
+   Correct: 0/20
+   Predicted top 5: ['D009', 'D020', 'D002', 'D004', 'D005']
+   Actual top 5:    ['D008', 'D017', 'D012', 'D013', 'D003']
+
+9. R03706 - Silverstone (33°C)
+   Correct: 0/20
+   Predicted top 5: ['D006', 'D014', 'D007', 'D019', 'D003']
+   Actual top 5:    ['D016', 'D001', 'D002', 'D013', 'D008']
+
+10. R02805 - COTA (30°C)
+   Correct: 0/20
+   Predicted top 5: ['D014', 'D008', 'D013', 'D016', 'D005']
+   Actual top 5:    ['D002', 'D004', 'D001', 'D010', 'D011']
+
+================================================================================
+
+10 BEST PREDICTIONS:
+
+1. R14219 - Spa (30°C)
+   Correct: 17/20
+
+2. R16217 - Spa (27°C)
+   Correct: 15/20
+
+3. R14215 - Monza (28°C)
+   Correct: 15/20
+
+4. R08516 - Spa (33°C)
+   Correct: 14/20
+
+5. R15190 - Spa (28°C)
+   Correct: 14/20
+
+6. R15077 - Monaco (33°C)
+   Correct: 14/20
+
+7. R20276 - Spa (33°C)
+   Correct: 14/20
+
+8. R15909 - COTA (33°C)
+   Correct: 13/20
+
+9. R12600 - Suzuka (28°C)
+   Correct: 13/20
+
+10. R18886 - COTA (31°C)
+   Correct: 13/20
