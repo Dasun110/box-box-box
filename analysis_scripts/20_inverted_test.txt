@@ -1,0 +1,24 @@
+================================================================================
+TESTING INVERTED COMPOUND HYPOTHESIS
+HARD tires are FASTER and degrade SLOWER
+================================================================================
+
+SOFT=+0.1, HARD=-0.1, soft_deg=0.08, hard_deg=0.01
+  Accuracy: 14.3%
+
+SOFT=+0.2, HARD=-0.2, soft_deg=0.08, hard_deg=0.01
+  Accuracy: 16.8%
+
+SOFT=+0.15, HARD=-0.15, soft_deg=0.1, hard_deg=0.01
+  Accuracy: 15.7%
+
+SOFT=+0.1, HARD=-0.1, soft_deg=0.1, hard_deg=0.02
+  Accuracy: 16.9%
+
+SOFT=+0.05, HARD=-0.05, soft_deg=0.06, hard_deg=0.01
+  Accuracy: 6.4%
+
+================================================================================
+BEST CONFIG: SOFT=+0.1, HARD=-0.1, soft_deg=0.1, hard_deg=0.02
+ACCURACY: 16.9%
+================================================================================

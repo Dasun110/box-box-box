@@ -1,0 +1,11 @@
+================================================================================
+TESTING: Temperature-Adjusted Degradation
+================================================================================
+
+No temp adjust:
+  SOFT=+0.10, HARD=-0.10, soft_deg=0.10, hard_deg=0.01
+  Accuracy: 16.1%
+
+Light temp adjust:
+  SOFT=+0.10, HARD=-0.10, soft_deg=0.10, hard_deg=0.01
+  Accuracy: 16.1%
