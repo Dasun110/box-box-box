@@ -1,0 +1,178 @@
+================================================================================
+DEGRADATION ANALYSIS BY TEMPERATURE
+================================================================================
+
+Temperature: 18°C (117 drivers across 8 races)
+  SOFT  :  40 drivers, avg pos= 11.0, avg first stint= 10.8 laps
+  MEDIUM:  46 drivers, avg pos= 11.5, avg first stint= 23.4 laps
+  HARD  :  31 drivers, avg pos=  9.2, avg first stint= 35.5 laps
+
+Temperature: 19°C (112 drivers across 8 races)
+  SOFT  :  24 drivers, avg pos= 11.4, avg first stint= 10.2 laps
+  MEDIUM:  51 drivers, avg pos= 11.1, avg first stint= 23.5 laps
+  HARD  :  37 drivers, avg pos=  9.0, avg first stint= 34.8 laps
+
+Temperature: 20°C (160 drivers across 12 races)
+  SOFT  :  54 drivers, avg pos= 12.9, avg first stint= 12.1 laps
+  MEDIUM:  52 drivers, avg pos= 10.0, avg first stint= 24.8 laps
+  HARD  :  54 drivers, avg pos=  8.4, avg first stint= 34.3 laps
+
+Temperature: 21°C (138 drivers across 10 races)
+  SOFT  :  52 drivers, avg pos= 12.6, avg first stint= 12.6 laps
+  MEDIUM:  40 drivers, avg pos= 10.1, avg first stint= 24.9 laps
+  HARD  :  46 drivers, avg pos= 10.4, avg first stint= 35.4 laps
+
+Temperature: 22°C (209 drivers across 15 races)
+  SOFT  :  69 drivers, avg pos= 12.3, avg first stint= 11.7 laps
+  MEDIUM:  72 drivers, avg pos= 10.9, avg first stint= 23.4 laps
+  HARD  :  68 drivers, avg pos=  7.7, avg first stint= 35.2 laps
+
+Temperature: 23°C (166 drivers across 11 races)
+  SOFT  :  60 drivers, avg pos= 13.3, avg first stint= 12.7 laps
+  MEDIUM:  53 drivers, avg pos= 10.6, avg first stint= 23.9 laps
+  HARD  :  53 drivers, avg pos=  8.2, avg first stint= 35.8 laps
+
+Temperature: 24°C (251 drivers across 19 races)
+  SOFT  :  89 drivers, avg pos= 12.4, avg first stint= 11.9 laps
+  MEDIUM:  87 drivers, avg pos= 12.3, avg first stint= 24.6 laps
+  HARD  :  75 drivers, avg pos=  7.3, avg first stint= 36.0 laps
+
+Temperature: 26°C (117 drivers across 9 races)
+  SOFT  :  42 drivers, avg pos= 11.4, avg first stint= 12.3 laps
+  MEDIUM:  36 drivers, avg pos= 12.7, avg first stint= 22.7 laps
+  HARD  :  39 drivers, avg pos=  8.5, avg first stint= 34.1 laps
+
+Temperature: 27°C (1474 drivers across 78 races)
+  SOFT  : 495 drivers, avg pos= 10.8, avg first stint= 10.8 laps
+  MEDIUM: 491 drivers, avg pos= 11.5, avg first stint= 21.2 laps
+  HARD  : 488 drivers, avg pos=  9.3, avg first stint= 32.8 laps
+
+Temperature: 28°C (2207 drivers across 113 races)
+  SOFT  : 669 drivers, avg pos=  9.8, avg first stint=  9.6 laps
+  MEDIUM: 757 drivers, avg pos= 10.7, avg first stint= 18.9 laps
+  HARD  : 781 drivers, avg pos= 10.9, avg first stint= 28.8 laps
+
+Temperature: 29°C (2050 drivers across 106 races)
+  SOFT  : 664 drivers, avg pos= 10.0, avg first stint=  9.6 laps
+  MEDIUM: 693 drivers, avg pos= 10.6, avg first stint= 19.3 laps
+  HARD  : 693 drivers, avg pos= 10.9, avg first stint= 28.9 laps
+
+Temperature: 30°C (2335 drivers across 120 races)
+  SOFT  : 779 drivers, avg pos= 10.1, avg first stint=  9.7 laps
+  MEDIUM: 761 drivers, avg pos= 10.4, avg first stint= 19.0 laps
+  HARD  : 795 drivers, avg pos= 11.0, avg first stint= 28.7 laps
+
+Temperature: 31°C (2527 drivers across 130 races)
+  SOFT  : 791 drivers, avg pos=  9.5, avg first stint=  9.1 laps
+  MEDIUM: 858 drivers, avg pos= 10.5, avg first stint= 18.5 laps
+  HARD  : 878 drivers, avg pos= 11.4, avg first stint= 28.1 laps
+
+Temperature: 32°C (1879 drivers across 97 races)
+  SOFT  : 613 drivers, avg pos=  9.7, avg first stint=  9.5 laps
+  MEDIUM: 626 drivers, avg pos= 10.5, avg first stint= 18.4 laps
+  HARD  : 640 drivers, avg pos= 11.3, avg first stint= 28.6 laps
+
+Temperature: 33°C (1972 drivers across 101 races)
+  SOFT  : 675 drivers, avg pos= 10.0, avg first stint=  9.4 laps
+  MEDIUM: 668 drivers, avg pos= 10.5, avg first stint= 18.5 laps
+  HARD  : 629 drivers, avg pos= 11.1, avg first stint= 28.6 laps
+
+Temperature: 34°C (1423 drivers across 75 races)
+  SOFT  : 487 drivers, avg pos= 10.8, avg first stint= 10.9 laps
+  MEDIUM: 464 drivers, avg pos= 11.4, avg first stint= 21.8 laps
+  HARD  : 472 drivers, avg pos=  9.6, avg first stint= 32.2 laps
+
+Temperature: 36°C (191 drivers across 13 races)
+  SOFT  :  66 drivers, avg pos= 11.3, avg first stint= 11.6 laps
+  MEDIUM:  61 drivers, avg pos= 11.2, avg first stint= 24.3 laps
+  HARD  :  64 drivers, avg pos=  9.0, avg first stint= 34.5 laps
+
+Temperature: 37°C (215 drivers across 15 races)
+  SOFT  :  68 drivers, avg pos= 11.8, avg first stint= 12.6 laps
+  MEDIUM:  72 drivers, avg pos= 12.4, avg first stint= 25.2 laps
+  HARD  :  75 drivers, avg pos=  8.7, avg first stint= 34.9 laps
+
+Temperature: 38°C (201 drivers across 14 races)
+  SOFT  :  74 drivers, avg pos= 11.9, avg first stint= 11.8 laps
+  MEDIUM:  66 drivers, avg pos= 12.7, avg first stint= 24.9 laps
+  HARD  :  61 drivers, avg pos=  7.5, avg first stint= 34.7 laps
+
+Temperature: 39°C (134 drivers across 10 races)
+  SOFT  :  47 drivers, avg pos= 13.1, avg first stint= 11.7 laps
+  MEDIUM:  45 drivers, avg pos=  8.9, avg first stint= 24.4 laps
+  HARD  :  42 drivers, avg pos=  8.4, avg first stint= 36.8 laps
+
+Temperature: 40°C (141 drivers across 10 races)
+  SOFT  :  56 drivers, avg pos= 12.6, avg first stint= 10.6 laps
+  MEDIUM:  37 drivers, avg pos= 11.5, avg first stint= 23.8 laps
+  HARD  :  48 drivers, avg pos=  9.0, avg first stint= 34.9 laps
+
+Temperature: 41°C (110 drivers across 8 races)
+  SOFT  :  35 drivers, avg pos= 12.0, avg first stint= 11.0 laps
+  MEDIUM:  38 drivers, avg pos= 10.3, avg first stint= 23.7 laps
+  HARD  :  37 drivers, avg pos=  9.8, avg first stint= 35.5 laps
+
+Temperature: 42°C (248 drivers across 18 races)
+  SOFT  :  84 drivers, avg pos= 12.1, avg first stint= 12.2 laps
+  MEDIUM:  77 drivers, avg pos= 12.2, avg first stint= 23.6 laps
+  HARD  :  87 drivers, avg pos=  9.3, avg first stint= 35.2 laps
+
+================================================================================
+OBSERVATION: Does temperature affect first stint length?
+================================================================================
+
+Bahrain:
+  18°C: avg pit lap =  24.6
+  20°C: avg pit lap =  26.7
+  21°C: avg pit lap =  23.4
+  37°C: avg pit lap =  25.0
+  39°C: avg pit lap =  25.1
+  42°C: avg pit lap =  22.8
+
+COTA:
+  18°C: avg pit lap =  19.8
+  19°C: avg pit lap =  25.0
+  20°C: avg pit lap =  23.1
+  38°C: avg pit lap =  24.0
+  39°C: avg pit lap =  17.1
+  41°C: avg pit lap =  25.7
+
+Monaco:
+  18°C: avg pit lap =  20.0
+  19°C: avg pit lap =  22.5
+  20°C: avg pit lap =  21.4
+  37°C: avg pit lap =  25.6
+  40°C: avg pit lap =  23.5
+  42°C: avg pit lap =  23.9
+
+Monza:
+  18°C: avg pit lap =  25.2
+  20°C: avg pit lap =  26.7
+  21°C: avg pit lap =  24.3
+  38°C: avg pit lap =  23.9
+  41°C: avg pit lap =  24.0
+  42°C: avg pit lap =  24.9
+
+Silverstone:
+  19°C: avg pit lap =  27.1
+  20°C: avg pit lap =  24.8
+  21°C: avg pit lap =  26.7
+  39°C: avg pit lap =  23.9
+  40°C: avg pit lap =  19.6
+  42°C: avg pit lap =  26.8
+
+Spa:
+  19°C: avg pit lap =  25.3
+  20°C: avg pit lap =  24.8
+  21°C: avg pit lap =  24.4
+  40°C: avg pit lap =  21.6
+  41°C: avg pit lap =  23.7
+  42°C: avg pit lap =  25.6
+
+Suzuka:
+  18°C: avg pit lap =  20.5
+  19°C: avg pit lap =  26.7
+  20°C: avg pit lap =  23.6
+  40°C: avg pit lap =  25.9
+  41°C: avg pit lap =  25.8
+  42°C: avg pit lap =  24.4

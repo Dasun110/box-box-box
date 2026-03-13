@@ -1,0 +1,24 @@
+================================================================================
+COMPOUND-SPECIFIC DEGRADATION ANALYSIS
+================================================================================
+
+SOFT:
+  Total drivers: 3034
+  Stint length - avg: 10.1, range: 5-17
+  Short stint (<10 laps): 1495 drivers, avg finish: 10.4
+  Medium stint (10-20 laps): 1539 drivers, avg finish: 10.5
+  Correlation (stint length vs position): 0.032
+
+MEDIUM:
+  Total drivers: 3042
+  Stint length - avg: 20.0, range: 11-31
+  Medium stint (10-20 laps): 1468 drivers, avg finish: 10.8
+  Long stint (20+ laps): 1574 drivers, avg finish: 10.8
+  Correlation (stint length vs position): -0.005
+
+HARD:
+  Total drivers: 3056
+  Stint length - avg: 30.2, range: 19-44
+  Medium stint (10-20 laps): 133 drivers, avg finish: 13.2
+  Long stint (20+ laps): 2923 drivers, avg finish: 10.3
+  Correlation (stint length vs position): -0.188

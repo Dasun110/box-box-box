@@ -1,0 +1,71 @@
+================================================================================
+DRIVERS WITH IDENTICAL STRATEGIES (same tire, same pit lap)
+================================================================================
+
+R05618 - Suzuka (30°C)
+  Strategy: MEDIUM → HARD, pits at laps (18,)
+  Drivers: D001, D005
+  Finishing positions: [6, 7]
+  Position spread: 1 places
+
+R05618 - Suzuka (30°C)
+  Strategy: HARD → MEDIUM, pits at laps (24,)
+  Drivers: D003, D019
+  Finishing positions: [8, 9]
+  Position spread: 1 places
+
+R05618 - Suzuka (30°C)
+  Strategy: HARD → MEDIUM, pits at laps (28,)
+  Drivers: D006, D007, D010
+  Finishing positions: [17, 18, 19]
+  Position spread: 2 places
+
+R05618 - Suzuka (30°C)
+  Strategy: HARD → MEDIUM, pits at laps (20,)
+  Drivers: D008, D011
+  Finishing positions: [1, 2]
+  Position spread: 1 places
+
+R05618 - Suzuka (30°C)
+  Strategy: MEDIUM → HARD, pits at laps (13,)
+  Drivers: D012, D017
+  Finishing positions: [15, 16]
+  Position spread: 1 places
+
+R05618 - Suzuka (30°C)
+  Strategy: HARD → MEDIUM, pits at laps (21,)
+  Drivers: D015, D020
+  Finishing positions: [3, 4]
+  Position spread: 1 places
+
+R11409 - Monza (33°C)
+  Strategy: HARD → MEDIUM, pits at laps (26,)
+  Drivers: D002, D005
+  Finishing positions: [14, 15]
+  Position spread: 1 places
+
+R11409 - Monza (33°C)
+  Strategy: HARD → SOFT, pits at laps (31,)
+  Drivers: D003, D016
+  Finishing positions: [12, 13]
+  Position spread: 1 places
+
+R11409 - Monza (33°C)
+  Strategy: HARD → MEDIUM, pits at laps (31,)
+  Drivers: D004, D014, D020
+  Finishing positions: [17, 18, 19]
+  Position spread: 2 places
+
+R11409 - Monza (33°C)
+  Strategy: SOFT → HARD, pits at laps (9,)
+  Drivers: D007, D013
+  Finishing positions: [2, 3]
+  Position spread: 1 places
+
+R20073 - Silverstone (28°C)
+  Strategy: SOFT → MEDIUM, pits at laps (14,)
+  Drivers: D008, D020
+  Finishing positions: [15, 16]
+  Position spread: 1 places
+
+Total matching strategies found: 11
