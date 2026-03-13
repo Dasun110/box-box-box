@@ -1,0 +1,58 @@
+======================================================================
+FINE-TUNING LINEAR DEGRADATION RATE
+======================================================================
+Degradation rate 0.01 →   6.2%
+Degradation rate 0.02 →   5.9%
+Degradation rate 0.03 →   5.6%
+Degradation rate 0.04 →   5.7%
+Degradation rate 0.05 →   5.4%
+Degradation rate 0.06 →   5.4%
+Degradation rate 0.07 →   4.6%
+Degradation rate 0.08 →   5.5%
+Degradation rate 0.09 →   5.5%
+Degradation rate 0.10 →   5.5%
+Degradation rate 0.11 →   5.5%
+Degradation rate 0.12 →   5.6%
+Degradation rate 0.13 →   6.0%
+Degradation rate 0.14 →   4.6%
+Degradation rate 0.15 →   5.2%
+Degradation rate 0.16 →   5.0%
+Degradation rate 0.17 →   5.7%
+Degradation rate 0.18 →   5.4%
+Degradation rate 0.19 →   5.7%
+Degradation rate 0.20 →   4.8%
+Degradation rate 0.21 →   5.1%
+Degradation rate 0.22 →   5.2%
+Degradation rate 0.23 →   5.6%
+Degradation rate 0.24 →   5.4%
+Degradation rate 0.25 →   5.6%
+Degradation rate 0.26 →   5.2%
+Degradation rate 0.27 →   5.1%
+Degradation rate 0.28 →   4.8%
+Degradation rate 0.29 →   5.2%
+Degradation rate 0.30 →   4.8%
+Degradation rate 0.31 →   5.0%
+Degradation rate 0.32 →   4.6%
+Degradation rate 0.33 →   5.1%
+Degradation rate 0.34 →   5.4%
+Degradation rate 0.35 →   5.1%
+Degradation rate 0.36 →   5.5%
+Degradation rate 0.37 →   5.4%
+Degradation rate 0.38 →   5.7%
+Degradation rate 0.39 →   5.0%
+Degradation rate 0.40 →   4.9%
+Degradation rate 0.41 →   5.5%
+Degradation rate 0.42 →   5.8%
+Degradation rate 0.43 →   5.0%
+Degradation rate 0.44 →   5.4%
+Degradation rate 0.45 →   5.4%
+Degradation rate 0.46 →   5.3%
+Degradation rate 0.47 →   5.3%
+Degradation rate 0.48 →   5.3%
+Degradation rate 0.49 →   5.5%
+Degradation rate 0.50 →   5.3%
+
+======================================================================
+BEST DEGRADATION RATE: 0.01 seconds/lap age
+ACCURACY: 6.2%
+======================================================================

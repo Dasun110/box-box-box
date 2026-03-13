@@ -1,0 +1,107 @@
+======================================================================
+TIRE AGE ANALYSIS: Winners vs Losers
+======================================================================
+
+R21072 - Suzuka
+Laps: 50
+
+TOP 5:
+   1. D001: avg age=13.2, max age=28, final age=28
+   2. D014: avg age=13.7, max age=31, final age=19
+   3. D018: avg age=14.6, max age=34, final age=16
+   4. D002: avg age=9.4, max age=22, final age=22
+   5. D009: avg age=9.4, max age=23, final age=23
+
+BOTTOM 5:
+  20. D011: avg age=13.7, max age=31, final age=31
+  19. D008: avg age=19.5, max age=43, final age=43
+  18. D013: avg age=13.0, max age=25, final age=25
+  17. D015: avg age=9.4, max age=22, final age=17
+  16. D005: avg age=9.3, max age=22, final age=15
+
+R05618 - Suzuka
+Laps: 40
+
+TOP 5:
+   1. D008: avg age=10.5, max age=21, final age=21
+   2. D011: avg age=10.5, max age=21, final age=21
+   3. D015: avg age=10.5, max age=20, final age=20
+   4. D020: avg age=10.5, max age=20, final age=20
+   5. D013: avg age=10.5, max age=21, final age=19
+
+BOTTOM 5:
+  20. D009: avg age=12.5, max age=29, final age=29
+  19. D010: avg age=11.7, max age=27, final age=13
+  18. D007: avg age=11.7, max age=27, final age=13
+  17. D006: avg age=11.7, max age=27, final age=13
+  16. D017: avg age=12.1, max age=28, final age=28
+
+R11409 - Monza
+Laps: 36
+
+TOP 5:
+   1. D006: avg age=10.9, max age=25, final age=25
+   2. D007: avg age=12.3, max age=28, final age=28
+   3. D013: avg age=12.3, max age=28, final age=28
+   4. D019: avg age=11.3, max age=26, final age=10
+   5. D012: avg age=9.5, max age=19, final age=19
+
+BOTTOM 5:
+  20. D011: avg age=9.9, max age=22, final age=22
+  19. D020: avg age=13.5, max age=30, final age=6
+  18. D014: avg age=13.5, max age=30, final age=6
+  17. D004: avg age=13.5, max age=30, final age=6
+  16. D008: avg age=12.9, max age=29, final age=29
+
+R20073 - Silverstone
+Laps: 52
+
+TOP 5:
+   1. D002: avg age=13.8, max age=30, final age=30
+   2. D011: avg age=13.7, max age=29, final age=29
+   3. D012: avg age=13.5, max age=27, final age=25
+   4. D009: avg age=15.4, max age=36, final age=36
+   5. D014: avg age=15.4, max age=36, final age=36
+
+BOTTOM 5:
+  20. D005: avg age=15.1, max age=35, final age=35
+  19. D006: avg age=13.5, max age=26, final age=26
+  18. D001: avg age=17.8, max age=41, final age=41
+  17. D019: avg age=13.6, max age=28, final age=24
+  16. D020: avg age=16.8, max age=39, final age=39
+
+R13543 - COTA
+Laps: 44
+
+TOP 5:
+   1. D005: avg age=11.6, max age=24, final age=20
+   2. D009: avg age=11.9, max age=26, final age=26
+   3. D010: avg age=11.9, max age=26, final age=26
+   4. D012: avg age=11.7, max age=25, final age=19
+   5. D019: avg age=13.8, max age=32, final age=32
+
+BOTTOM 5:
+  20. D017: avg age=12.3, max age=28, final age=28
+  19. D020: avg age=17.3, max age=38, final age=38
+  18. D003: avg age=16.0, max age=36, final age=36
+  17. D016: avg age=11.9, max age=26, final age=18
+  16. D001: avg age=13.8, max age=32, final age=32
+
+======================================================================
+STATISTICAL CORRELATION: Tire Age vs Finishing Position
+======================================================================
+
+avg_tire_age:
+  Top 5 average: 12.71
+  Bottom 5 average: 13.77
+  Difference: 1.06 (Bottom OLDER)
+
+max_tire_age:
+  Top 5 average: 28.39
+  Bottom 5 average: 30.68
+  Difference: 2.29 (Bottom OLDER)
+
+final_tire_age:
+  Top 5 average: 23.89
+  Bottom 5 average: 25.64
+  Difference: 1.75 (Bottom OLDER)
