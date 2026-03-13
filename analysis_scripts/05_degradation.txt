@@ -1,0 +1,12 @@
+=== DEGRADATION ANALYSIS: SOFT ===
+Start offset (assumption): -2.0 seconds
+
+Data points by tire age:
+=== DEGRADATION ANALYSIS: MEDIUM ===
+Start offset (assumption): 0.0 seconds
+
+Data points by tire age:
+=== DEGRADATION ANALYSIS: HARD ===
+Start offset (assumption): 2.0 seconds
+
+Data points by tire age:

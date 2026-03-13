@@ -1,0 +1,164 @@
+=== TEMPERATURE GROUPS ===
+Temperature ~20°C: 53 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+Temperature ~25°C: 117 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+Temperature ~30°C: 566 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+Temperature ~35°C: 204 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+Temperature ~40°C: 60 races, tracks: {'Monza', 'Monaco', 'COTA', 'Bahrain', 'Silverstone', 'Spa', 'Suzuka'}
+
+=== SAME TRACK, DIFFERENT TEMPS ===
+
+Bahrain: temperatures [18, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 42]
+  18°C: 3 races
+  20°C: 3 races
+  21°C: 1 races
+  22°C: 1 races
+  23°C: 1 races
+  24°C: 4 races
+  26°C: 1 races
+  27°C: 5 races
+  28°C: 12 races
+  29°C: 13 races
+  30°C: 15 races
+  31°C: 17 races
+  32°C: 17 races
+  33°C: 14 races
+  34°C: 13 races
+  36°C: 1 races
+  37°C: 3 races
+  39°C: 3 races
+  42°C: 1 races
+
+COTA: temperatures [18, 19, 20, 21, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 41]
+  18°C: 1 races
+  19°C: 2 races
+  20°C: 2 races
+  21°C: 1 races
+  23°C: 2 races
+  24°C: 4 races
+  27°C: 12 races
+  28°C: 14 races
+  29°C: 16 races
+  30°C: 16 races
+  31°C: 17 races
+  32°C: 10 races
+  33°C: 16 races
+  34°C: 11 races
+  36°C: 1 races
+  37°C: 4 races
+  38°C: 5 races
+  39°C: 1 races
+  41°C: 2 races
+
+Monaco: temperatures [18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 40, 42]
+  18°C: 1 races
+  19°C: 1 races
+  20°C: 1 races
+  21°C: 1 races
+  22°C: 2 races
+  23°C: 1 races
+  24°C: 4 races
+  26°C: 3 races
+  27°C: 12 races
+  28°C: 16 races
+  29°C: 19 races
+  30°C: 17 races
+  31°C: 17 races
+  32°C: 11 races
+  33°C: 13 races
+  34°C: 8 races
+  36°C: 5 races
+  37°C: 1 races
+  40°C: 2 races
+  42°C: 6 races
+
+Monza: temperatures [18, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 41, 42]
+  18°C: 2 races
+  20°C: 2 races
+  21°C: 3 races
+  22°C: 3 races
+  23°C: 1 races
+  24°C: 1 races
+  26°C: 1 races
+  27°C: 10 races
+  28°C: 20 races
+  29°C: 14 races
+  30°C: 16 races
+  31°C: 20 races
+  32°C: 13 races
+  33°C: 12 races
+  34°C: 10 races
+  36°C: 1 races
+  37°C: 1 races
+  38°C: 4 races
+  41°C: 3 races
+  42°C: 4 races
+
+Silverstone: temperatures [19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42]
+  19°C: 1 races
+  20°C: 1 races
+  21°C: 1 races
+  22°C: 5 races
+  23°C: 3 races
+  24°C: 4 races
+  26°C: 2 races
+  27°C: 11 races
+  28°C: 18 races
+  29°C: 12 races
+  30°C: 21 races
+  31°C: 18 races
+  32°C: 17 races
+  33°C: 14 races
+  34°C: 10 races
+  36°C: 2 races
+  37°C: 2 races
+  38°C: 2 races
+  39°C: 3 races
+  40°C: 2 races
+  42°C: 2 races
+
+Spa: temperatures [19, 20, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42]
+  19°C: 2 races
+  20°C: 1 races
+  21°C: 1 races
+  22°C: 1 races
+  23°C: 1 races
+  27°C: 17 races
+  28°C: 17 races
+  29°C: 17 races
+  30°C: 15 races
+  31°C: 25 races
+  32°C: 14 races
+  33°C: 16 races
+  34°C: 10 races
+  36°C: 1 races
+  37°C: 3 races
+  38°C: 1 races
+  39°C: 2 races
+  40°C: 2 races
+  41°C: 2 races
+  42°C: 4 races
+
+Suzuka: temperatures [18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42]
+  18°C: 1 races
+  19°C: 2 races
+  20°C: 2 races
+  21°C: 2 races
+  22°C: 3 races
+  23°C: 2 races
+  24°C: 2 races
+  26°C: 2 races
+  27°C: 11 races
+  28°C: 16 races
+  29°C: 15 races
+  30°C: 20 races
+  31°C: 16 races
+  32°C: 15 races
+  33°C: 16 races
+  34°C: 13 races
+  36°C: 2 races
+  37°C: 1 races
+  38°C: 2 races
+  39°C: 1 races
+  40°C: 4 races
+  41°C: 1 races
+  42°C: 1 races
